@@ -1,6 +1,6 @@
 [
   {
-    "id": 5394,
+    "id": 5381,
     "title": "There Are Many Reasons to Use Apple &#x27;s New Password Manager -- WSJ",
     "date": "2024-10-01 12:02:00",
     "journal": "Dow Jones Institutional News",
@@ -18,7 +18,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 10962,
+    "id": 10938,
     "title": "‘Sextortion&#x27; Scams Leverage Apple &#x27;s Message Platform to Build Trust With Teens",
     "date": "2025-06-11 12:31:00",
     "journal": "WSJ Podcasts",
@@ -36,7 +36,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 11846,
+    "id": 11819,
     "title": "&#x27;Sextortion&#x27; Scams Involving Apple Messages Ended in Tragedy for These Boys -- WSJ",
     "date": "2025-06-07 18:30:00",
     "journal": "Dow Jones Newswires",
@@ -54,7 +54,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 15977,
+    "id": 15929,
     "title": "For This Boeing Family, the Job Is the Same. The Payoff Isn&#x27;t; Working at the jet maker gave the Merwins a middle-class life near Seattle, but they say &#x27;the company is not that ticket anymore&#x27;",
     "date": "2024-09-30 15:00:00",
     "journal": "The Wall Street Journal Online",
@@ -72,7 +72,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 18529,
+    "id": 18469,
     "title": "Can Boeing Be Fixed? Aerospace Leaders Offer a Repair Manual -- WSJ",
     "date": "2025-01-07 07:30:00",
     "journal": "Dow Jones Institutional News",
@@ -90,7 +90,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 18536,
+    "id": 18476,
     "title": "Can Boeing Be Fixed? Aerospace Leaders Offer a Repair Manual -- WSJ",
     "date": "2025-01-07 07:30:00",
     "journal": "Dow Jones Institutional News",
@@ -108,7 +108,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 18587,
+    "id": 18526,
     "title": "Can Boeing Be Fixed? Aerospace Leaders Offer a Repair Manual; Restore trust and forget the stock price Experts from inside and outside the company share advice for the troubled jet maker",
     "date": "2025-01-07 07:30:00",
     "journal": "The Wall Street Journal Online",
@@ -126,7 +126,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 18592,
+    "id": 18531,
     "title": "Can Boeing Be Fixed? Aerospace Leaders Offer a Repair Manual; Restore trust and forget the stock price Experts from inside and outside the company share advice for the troubled jet maker",
     "date": "2025-01-07 07:30:00",
     "journal": "The Wall Street Journal Online",
@@ -144,7 +144,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 21296,
+    "id": 21232,
     "title": "FAA&#x27;s proposed $3.1 million fine to Boeing inadequate, senator says",
     "date": "2025-09-24 18:58:00",
     "journal": "Reuters News",
@@ -162,7 +162,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 21301,
+    "id": 21237,
     "title": "UPDATE 1-US senator calls FAA&#x27;s proposed $3.1 million Boeing fine inadequate",
     "date": "2025-09-24 20:16:00",
     "journal": "Reuters News",
@@ -180,7 +180,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 37109,
+    "id": 36997,
     "title": "*DOJ Sues Walgreens Boots Alliance ; Alleges &#x27;Walgreens Knowingly Filled Millions of Prescriptions that Lacked a Legitimate Medical Purpose&#x27;",
     "date": "2025-01-18 02:21:00",
     "journal": "Dow Jones Institutional News",
@@ -198,7 +198,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 37861,
+    "id": 37748,
     "title": "Press Release Robbins LLP Reminds Investors of Walgreens Boots Alliance , Inc. (WBA) of the Pending Lead Plaintiff Deadline and Urges Investors to Obtain Counsel",
     "date": "2025-02-19 06:46:00",
     "journal": "Dow Jones Institutional News",
@@ -216,7 +216,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 37862,
+    "id": 37749,
     "title": "Press Release Robbins LLP Reminds Investors of Walgreens Boots Alliance , Inc. (WBA) of the Pending Lead Plaintiff Deadline and Urges Investors to Obtain Counsel",
     "date": "2025-02-19 06:46:00",
     "journal": "Dow Jones Institutional News",
@@ -229,6 +229,96 @@
     "numMatches": 5,
     "sentence": "Specifically, the DOJ&#x27;s &quot;complaint alleges that, from approximately August 2012 through the present, Walgreens knowingly filled millions of prescriptions for controlled substances that lacked a legitimate medical purpose, were not valid, and/or were not issued in the usual course of professional practice&quot;, including &quot;prescriptions for <span class=\"highlight-negative\">dangerous</span> and excessive quantities of opioids, prescriptions for early refills of opioids and prescriptions for the especially <span class=\"highlight-negative\">dangerous</span> and abused combination of drugs known as the &#x27;trinity,&#x27; which is made up of an opioid, a benzodiazepine and a muscle relaxant.&quot;",
     "sentenceRaw": "Specifically, the DOJ's \"complaint alleges that, from approximately August 2012 through the present, Walgreens knowingly filled millions of prescriptions for controlled substances that lacked a legitimate medical purpose, were not valid, and/or were not issued in the usual course of professional practice\", including \"prescriptions for dangerous and excessive quantities of opioids, prescriptions for early refills of opioids and prescriptions for the especially dangerous and abused combination of drugs known as the 'trinity,' which is made up of an opioid, a benzodiazepine and a muscle relaxant.\"",
+    "attitudeType": "appreciation",
+    "attitudeSubtype": "reaction",
+    "attitudePolarity": "negative"
+  },
+  {
+    "id": 50088,
+    "title": "Hedge Funds Hate Apple Stock. Why They Could Be Wrong. -- Barrons.com",
+    "date": "2025-04-23 23:51:00",
+    "journal": "Dow Jones Institutional News",
+    "company": "N/A",
+    "region": "apacz : Asia Pacific | asiaz : Asia | china : China | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing Economies | easiaz : East Asia | namz : North America | usa : United States",
+    "sentiment": "negative",
+    "sentimentScore": 0.967227220535278,
+    "matchedText": "soured",
+    "matchType": "word",
+    "numMatches": 1,
+    "sentence": "Hedge funds that have <span class=\"highlight-negative\">soured</span> on Apple stock may be overreacting, research from Goldman Sachs indicates.",
+    "sentenceRaw": "Hedge funds that have soured on Apple stock may be overreacting, research from Goldman Sachs indicates.",
+    "attitudeType": "appreciation",
+    "attitudeSubtype": "reaction",
+    "attitudePolarity": "negative"
+  },
+  {
+    "id": 50206,
+    "title": "They Paid $3,500 for Apple &#x27;s Vision Pro. A Year Later, It Still Hurts. The mixed-reality headset launched last year with great promise, but all these buyers got were dirty looks and sore necks; &#x27;I don&#x27;t need that&#x27;",
+    "date": "2025-05-15 15:00:00",
+    "journal": "The Wall Street Journal Online",
+    "company": "A-hed",
+    "region": "namz : North America | usa : United States",
+    "sentiment": "negative",
+    "sentimentScore": 0.878498017787933,
+    "matchedText": "soured",
+    "matchType": "word",
+    "numMatches": 1,
+    "sentence": "The experience hasn&#x27;t, however, <span class=\"highlight-negative\">soured</span> the Apple fan (who also bought the first iPhone) on the company.",
+    "sentenceRaw": "The experience hasn't, however, soured the Apple fan (who also bought the first iPhone) on the company.",
+    "attitudeType": "appreciation",
+    "attitudeSubtype": "reaction",
+    "attitudePolarity": "negative"
+  },
+  {
+    "id": 50209,
+    "title": "Apple &#x27;s WWDC Clouded by Worries Over AI, Tariffs, and Legal Battles",
+    "date": "2025-06-09 12:31:00",
+    "journal": "WSJ Podcasts",
+    "company": "SYND",
+    "region": "namz : North America | usa : United States",
+    "sentiment": "negative",
+    "sentimentScore": 0.972332239151001,
+    "matchedText": "soured",
+    "matchType": "word",
+    "numMatches": 1,
+    "sentence": "A growing list of problems have <span class=\"highlight-negative\">soured</span> investor sentiment on Apple.",
+    "sentenceRaw": "A growing list of problems have soured investor sentiment on Apple.",
+    "attitudeType": "appreciation",
+    "attitudeSubtype": "reaction",
+    "attitudePolarity": "negative"
+  },
+  {
+    "id": 50220,
+    "title": "An Apple Card Takeover Would Mark a Different Kind of JPMorgan Rescue -- Barrons.com",
+    "date": "2024-09-18 04:12:00",
+    "journal": "Dow Jones Institutional News",
+    "company": "N/A",
+    "region": "namz : North America | usa : United States",
+    "sentiment": "positive",
+    "sentimentScore": 0.600884914398193,
+    "matchedText": "soured",
+    "matchType": "word",
+    "numMatches": 1,
+    "sentence": "The Wall Street Journal reported on Tuesday that JPMorgan Chase and Apple were discussing a deal where the bank would take over the tech firm&#x27;s credit-card program after a Goldman Sachs partnership <span class=\"highlight-negative\">soured</span>.",
+    "sentenceRaw": "The Wall Street Journal reported on Tuesday that JPMorgan Chase and Apple were discussing a deal where the bank would take over the tech firm's credit-card program after a Goldman Sachs partnership soured.",
+    "attitudeType": "appreciation",
+    "attitudeSubtype": "reaction",
+    "attitudePolarity": "negative"
+  },
+  {
+    "id": 50713,
+    "title": "Britain&#x27;s JD Sports says Nike &#x27;doing all the right things&#x27; to lift sales",
+    "date": "2025-09-24 14:04:00",
+    "journal": "Reuters News",
+    "company": "Company News",
+    "region": "eurz : Europe | nordz : Northern Europe | uk : United Kingdom | weurz : Western Europe",
+    "sentiment": "negative",
+    "sentimentScore": 0.535221576690674,
+    "matchedText": "soured",
+    "matchType": "word",
+    "numMatches": 1,
+    "sentence": "Hill, who was with Nike for more than three decades, returned as CEO in October to lead a turnaround at the firm which had been struggling with strategy missteps that <span class=\"highlight-negative\">soured</span> its relations with retailers.",
+    "sentenceRaw": "Hill, who was with Nike for more than three decades, returned as CEO in October to lead a turnaround at the firm which had been struggling with strategy missteps that soured its relations with retailers.",
     "attitudeType": "appreciation",
     "attitudeSubtype": "reaction",
     "attitudePolarity": "negative"
