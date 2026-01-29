@@ -1,0 +1,20 @@
+[
+  {
+    "id": 12527,
+    "title": "Stocks Are Still Vulnerable to a Tariff Shock. What Apple and Amazon Earnings Reveal. -- Barrons.com",
+    "date": "2025-08-01 16:04:00",
+    "journal": "Dow Jones Newswires",
+    "company": "N/A",
+    "region": "apacz : Asia Pacific | asiaz : Asia | china : China | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing Economies | easiaz : East Asia | namz : North America | usa : United States",
+    "sentiment": "neutral",
+    "sentimentScore": 0.904938220977783,
+    "matchedText": "concerns over incremental tariff impact to Apple have eased",
+    "matchType": "",
+    "numMatches": 0,
+    "sentence": "&quot;We believe <span class=\"highlight-positive\">concerns over incremental tariff impact to Apple have eased</span>,&quot; Citi analysts wrote.",
+    "sentenceRaw": "\"We believe concerns over incremental tariff impact to Apple have eased,\" Citi analysts wrote.",
+    "attitudeType": "affect",
+    "attitudeSubtype": "security",
+    "attitudePolarity": "positive"
+  }
+]

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sentiment Annotation Corpus</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #1a1a1a; background-color: #fafafa; }
+  .container { max-width: 1000px; margin: 0 auto; padding: 40px 20px; }
+  header { background-color: #fff; padding: 40px; margin-bottom: 40px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: center; }
+  h1 { font-size: 36px; font-weight: 600; margin-bottom: 12px; color: #1a1a1a; }
+  .subtitle { font-size: 16px; color: #666; }
+  .category-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+  .category-card { background-color: #fff; padding: 24px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: all 0.2s; text-decoration: none; display: block; border-left: 4px solid #3498db; }
+  .category-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.15); transform: translateY(-2px); }
+  .category-card.positive { border-left-color: #27ae60; }
+  .category-card.negative { border-left-color: #e74c3c; }
+  .category-card.no-attitude { border-left-color: #999; }
+  .category-title { font-size: 18px; font-weight: 600; color: #1a1a1a; margin-bottom: 8px; }
+  .category-count { font-size: 14px; color: #666; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Sentiment Annotation Corpus</h1>
+    <p class="subtitle">Browse annotated financial news by attitude type, subtype, and polarity</p>
+  </header>
+  <div class="category-grid">
+      <a href="affect-happiness-negative.html" class="category-card negative">
+      <div class="category-title">Affect → Happiness → Negative</div>
+      <div class="category-count">21 entries</div>
+    </a>
+      <a href="affect-happiness-positive.html" class="category-card positive">
+      <div class="category-title">Affect → Happiness → Positive</div>
+      <div class="category-count">90 entries</div>
+    </a>
+      <a href="affect-inclination-negative.html" class="category-card negative">
+      <div class="category-title">Affect → Inclination → Negative</div>
+      <div class="category-count">190 entries</div>
+    </a>
+      <a href="affect-inclination-positive.html" class="category-card positive">
+      <div class="category-title">Affect → Inclination → Positive</div>
+      <div class="category-count">198 entries</div>
+    </a>
+      <a href="affect-satisfaction-negative.html" class="category-card negative">
+      <div class="category-title">Affect → Satisfaction → Negative</div>
+      <div class="category-count">313 entries</div>
+    </a>
+      <a href="affect-satisfaction-positive.html" class="category-card positive">
+      <div class="category-title">Affect → Satisfaction → Positive</div>
+      <div class="category-count">162 entries</div>
+    </a>
+      <a href="affect-security-negative.html" class="category-card negative">
+      <div class="category-title">Affect → Security → Negative</div>
+      <div class="category-count">1226 entries</div>
+    </a>
+      <a href="affect-security-positive.html" class="category-card positive">
+      <div class="category-title">Affect → Security → Positive</div>
+      <div class="category-count">1 entries</div>
+    </a>
+      <a href="appreciation-composition-negative.html" class="category-card negative">
+      <div class="category-title">Appreciation → Composition → Negative</div>
+      <div class="category-count">115 entries</div>
+    </a>
+      <a href="appreciation-composition-positive.html" class="category-card positive">
+      <div class="category-title">Appreciation → Composition → Positive</div>
+      <div class="category-count">206 entries</div>
+    </a>
+      <a href="appreciation-reaction-negative.html" class="category-card negative">
+      <div class="category-title">Appreciation → Reaction → Negative</div>
+      <div class="category-count">13 entries</div>
+    </a>
+      <a href="appreciation-reaction-positive.html" class="category-card positive">
+      <div class="category-title">Appreciation → Reaction → Positive</div>
+      <div class="category-count">212 entries</div>
+    </a>
+      <a href="appreciation-valuation-negative.html" class="category-card negative">
+      <div class="category-title">Appreciation → Valuation → Negative</div>
+      <div class="category-count">7562 entries</div>
+    </a>
+      <a href="appreciation-valuation-positive.html" class="category-card positive">
+      <div class="category-title">Appreciation → Valuation → Positive</div>
+      <div class="category-count">7815 entries</div>
+    </a>
+      <a href="judgement-capacity-negative.html" class="category-card negative">
+      <div class="category-title">Judgement → Capacity → Negative</div>
+      <div class="category-count">1254 entries</div>
+    </a>
+      <a href="judgement-capacity-positive.html" class="category-card positive">
+      <div class="category-title">Judgement → Capacity → Positive</div>
+      <div class="category-count">2257 entries</div>
+    </a>
+      <a href="judgement-propriety-negative.html" class="category-card negative">
+      <div class="category-title">Judgement → Propriety → Negative</div>
+      <div class="category-count">1213 entries</div>
+    </a>
+      <a href="judgement-propriety-positive.html" class="category-card positive">
+      <div class="category-title">Judgement → Propriety → Positive</div>
+      <div class="category-count">102 entries</div>
+    </a>
+      <a href="judgement-tenacity-negative.html" class="category-card negative">
+      <div class="category-title">Judgement → Tenacity → Negative</div>
+      <div class="category-count">61 entries</div>
+    </a>
+      <a href="judgement-tenacity-positive.html" class="category-card positive">
+      <div class="category-title">Judgement → Tenacity → Positive</div>
+      <div class="category-count">345 entries</div>
+    </a>
+      <a href="judgement-veracity-negative.html" class="category-card negative">
+      <div class="category-title">Judgement → Veracity → Negative</div>
+      <div class="category-count">210 entries</div>
+    </a>
+      <a href="judgement-veracity-positive.html" class="category-card positive">
+      <div class="category-title">Judgement → Veracity → Positive</div>
+      <div class="category-count">26 entries</div>
+    </a>
+      <a href="no-attitude-found.html" class="category-card no-attitude">
+      <div class="category-title">No Attitude Found</div>
+      <div class="category-count">20804 entries</div>
+    </a>
+      <a href="none-none-negative.html" class="category-card negative">
+      <div class="category-title">None → None → Negative</div>
+      <div class="category-count">8 entries</div>
+    </a>
+    </div>
+</div>
+</body>
+</html>
