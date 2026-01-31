@@ -18,7 +18,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 193,
+    "id": 186,
     "title": "UPDATE 1-Qualcomm shares slide as Apple modem shift, tariffs raise growth concerns",
     "date": "2025-07-31 19:46:00",
     "journal": "Reuters News",
@@ -36,7 +36,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 269,
+    "id": 251,
     "title": "The Top Apple and Compatible Accessory Deals During the Amazon Prime Early Access Sale",
     "date": "2025-03-10 23:11:00",
     "journal": "Buy Side from WSJ",
@@ -54,7 +54,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 271,
+    "id": 253,
     "title": "The Top Apple and Compatible Accessory Deals During the Amazon Prime Early Access Sale",
     "date": "2025-03-10 23:11:00",
     "journal": "Buy Side from WSJ",
@@ -72,7 +72,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 669,
+    "id": 633,
     "title": "Apple Has a Hot New Product. It&#x27;s a Hearing Aid. -- WSJ",
     "date": "2024-09-14 06:30:00",
     "journal": "Dow Jones Institutional News",
@@ -90,7 +90,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 1130,
+    "id": 1063,
     "title": "Tim Cook on Why Apple &#x27;s Huge Bets Will Pay Off; The CEO of the world&#x27;s most valuable company led two of the biggest product launches of his tenure this year—and believes they will be as life-changing for the rest of us as they are for him",
     "date": "2024-10-21 06:30:00",
     "journal": "The Wall Street Journal Online",
@@ -108,7 +108,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 1950,
+    "id": 1837,
     "title": "Apple &#x27;s Vision Pro Gets Foothold --- The $3,500 mixed-reality headset is catching on in some business niches",
     "date": "2025-09-05 00:00:00",
     "journal": "The Wall Street Journal",
@@ -126,7 +126,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 1955,
+    "id": 1842,
     "title": "Apple &#x27;s Vision Pro Gets Foothold -- WSJ",
     "date": "2025-09-05 12:02:00",
     "journal": "Dow Jones Newswires",
@@ -144,7 +144,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 2201,
+    "id": 2076,
     "title": "Press Release Apple elevates the iPhone experience with iOS 26",
     "date": "2025-06-09 23:39:00",
     "journal": "Dow Jones Newswires",
@@ -162,7 +162,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 2260,
+    "id": 2134,
     "title": "Press Release visionOS 26 introduces powerful new spatial experiences for Apple Vision Pro",
     "date": "2025-06-09 23:59:00",
     "journal": "Dow Jones Newswires",
@@ -180,25 +180,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 2261,
-    "title": "Press Release visionOS 26 introduces powerful new spatial experiences for Apple Vision Pro",
-    "date": "2025-06-09 23:59:00",
-    "journal": "Dow Jones Newswires",
-    "company": "N/A",
-    "region": "namz : North America | usa : United States | usca : California | usw : Western U.S.",
-    "sentiment": "neutral",
-    "sentimentScore": 0.918512046337128,
-    "matchedText": "favorite",
-    "matchType": "word",
-    "numMatches": 2,
-    "sentence": "Users can decorate their spaces with <span class=\"highlight-positive\">favorite</span> widgets, including stunning panoramas and spatial photos of their <span class=\"highlight-positive\">favorite</span> memories, clocks with distinctive face designs, and quick access to their go-to playlists and songs on Apple Music(R).",
-    "sentenceRaw": "Users can decorate their spaces with favorite widgets, including stunning panoramas and spatial photos of their favorite memories, clocks with distinctive face designs, and quick access to their go-to playlists and songs on Apple Music(R).",
-    "attitudeType": "affect",
-    "attitudeSubtype": "inclination",
-    "attitudePolarity": "positive"
-  },
-  {
-    "id": 2265,
+    "id": 2138,
     "title": "Press Release visionOS 26 introduces powerful new spatial experiences for Apple Vision Pro",
     "date": "2025-06-09 23:59:00",
     "journal": "Dow Jones Newswires",
@@ -216,7 +198,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 2698,
+    "id": 2553,
     "title": "Apple Intelligence Isn&#x27;t Very Smart Yet -- and Apple &#x27;s OK With That -- WSJ",
     "date": "2024-10-23 06:30:00",
     "journal": "Dow Jones Institutional News",
@@ -234,7 +216,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 2719,
+    "id": 2574,
     "title": "Apple &#x27;s Tim Cook Reaffirms Commitment to China in Second Visit This Year",
     "date": "2024-10-23 11:04:00",
     "journal": "Dow Jones Institutional News",
@@ -252,7 +234,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 2926,
+    "id": 2768,
     "title": "Press Release Apple will spend more than $500 billion in the U.S. over the next four years",
     "date": "2025-02-24 16:30:00",
     "journal": "Dow Jones Institutional News",
@@ -270,7 +252,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 3154,
+    "id": 2982,
     "title": "Press Release Residential PG&amp;E Customers Can Now Easily Access Electricity Usage Data from Apple Home App",
     "date": "2024-09-16 23:02:00",
     "journal": "Dow Jones Institutional News",
@@ -288,7 +270,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 3270,
+    "id": 3093,
     "title": "The Best Apple and Tech Deals During Prime Big Deal Days",
     "date": "2025-03-10 23:45:00",
     "journal": "Buy Side from WSJ",
@@ -306,7 +288,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 3492,
+    "id": 3305,
     "title": "These Are The Accessories Our Longtime Apple Reviewer Swears By",
     "date": "2025-03-11 00:10:00",
     "journal": "Buy Side from WSJ",
@@ -324,7 +306,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 3590,
+    "id": 3397,
     "title": "Apple Earmarks $500 Billion for U.S. Expansion -- 3rd Update",
     "date": "2025-02-24 21:20:00",
     "journal": "Dow Jones Institutional News",
@@ -342,7 +324,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 3643,
+    "id": 3450,
     "title": "UPDATE 2- Apple wins $250 US jury verdict in patent case over Masimo smartwatches",
     "date": "2024-10-26 05:05:00",
     "journal": "Reuters News",
@@ -360,7 +342,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4027,
+    "id": 3816,
     "title": "* Apple Music Expands Live Global Radio Offering With Three Brand-New Stations",
     "date": "2024-12-10 19:30:00",
     "journal": "Dow Jones Institutional News",
@@ -378,7 +360,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4032,
+    "id": 3821,
     "title": "* Apple Music Expands Live Global Radio Offering With Three Brand-New Stations",
     "date": "2024-12-10 19:30:00",
     "journal": "Dow Jones Institutional News",
@@ -396,7 +378,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4282,
+    "id": 4064,
     "title": "* Apple  All-New Apple Ginza Opens Friday in Tokyo &gt;AAPL",
     "date": "2025-09-23 16:58:00",
     "journal": "Dow Jones Newswires",
@@ -414,7 +396,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4347,
+    "id": 4126,
     "title": "The Apple Product That Helps Me Tune Out the Noise and Tune Into What&#x27;s Important",
     "date": "2025-09-25 01:37:00",
     "journal": "Buy Side from WSJ Online",
@@ -432,7 +414,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4452,
+    "id": 4227,
     "title": "Press Release Epson Introduces New Home Cinema and Modern Workspace Projectors with Built-In Support for Apple AirPlay",
     "date": "2025-08-12 15:45:00",
     "journal": "Dow Jones Newswires",
@@ -450,7 +432,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4469,
+    "id": 4244,
     "title": "Press Release Severance at 30,000 Feet Award-Winning Apple Originals Now Playing on United",
     "date": "2025-08-12 17:30:00",
     "journal": "Dow Jones Newswires",
@@ -468,7 +450,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4470,
+    "id": 4245,
     "title": "Press Release Severance at 30,000 Feet Award-Winning Apple Originals Now Playing on United",
     "date": "2025-08-12 17:30:00",
     "journal": "Dow Jones Newswires",
@@ -486,7 +468,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4532,
+    "id": 4306,
     "title": "UPDATE 5- Apple shareholders vote to keep its diversity policies",
     "date": "2025-02-26 06:22:00",
     "journal": "Reuters News",
@@ -504,7 +486,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4559,
+    "id": 4333,
     "title": "Trump asks Apple to end diversity policies after shareholders vote in favor",
     "date": "2025-02-26 20:24:00",
     "journal": "Reuters News",
@@ -522,7 +504,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4971,
+    "id": 4727,
     "title": "Apple Stock Falls. Why Visa&#x27;s Credit Card Move Is a Boost for the Tech Giant. -- Barrons.com",
     "date": "2025-04-02 16:25:00",
     "journal": "Dow Jones Institutional News",
@@ -540,7 +522,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 4980,
+    "id": 4735,
     "title": "How Apple Gets a Lift From Visa&#x27;s $100M Credit Card Offer -- Barrons.com",
     "date": "2025-04-02 20:02:00",
     "journal": "Dow Jones Institutional News",
@@ -558,7 +540,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 5402,
+    "id": 5135,
     "title": "Press Release Apple launches new professional learning resources for teachers and expands global education grant program",
     "date": "2024-10-01 18:30:00",
     "journal": "Dow Jones Institutional News",
@@ -576,7 +558,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 5424,
+    "id": 5157,
     "title": "Press Release Apple launches new professional learning resources for teachers and expands global education grant program",
     "date": "2024-10-01 18:30:00",
     "journal": "Dow Jones Institutional News",
@@ -594,7 +576,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 5860,
+    "id": 5554,
     "title": "Press Release Apple lands record-breaking 81 Emmy Award nominations with &quot;Severance&quot; leading as this year&#x27;s most-nominated series and &quot;The Studio&quot; becoming the most-nominated freshman comedy in history",
     "date": "2025-07-16 03:17:00",
     "journal": "Dow Jones Newswires",
@@ -612,7 +594,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 6063,
+    "id": 5748,
     "title": "The AirPods Pro 2 Are One of Apple &#x27;s Best Products — And They&#x27;re On Sale at an All-Time Low Price",
     "date": "2025-07-09 01:06:00",
     "journal": "Buy Side from WSJ",
@@ -630,7 +612,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 6125,
+    "id": 5806,
     "title": "The Best Apple and Electronics Deals From Prime Day 2025, According to a Long-Time Tech Reviewer",
     "date": "2025-07-09 04:29:00",
     "journal": "Buy Side from WSJ",
@@ -648,7 +630,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 6408,
+    "id": 6067,
     "title": "Apple to bring blood oxygen feature to some US watches with software update",
     "date": "2025-08-14 18:49:00",
     "journal": "Reuters News",
@@ -666,7 +648,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 6838,
+    "id": 6462,
     "title": "Press Release Apple Miami Worldcenter opens Friday, January 24, in downtown Miami",
     "date": "2025-01-22 19:30:00",
     "journal": "Dow Jones Institutional News",
@@ -684,7 +666,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 7107,
+    "id": 6708,
     "title": "TNB Tech Minute Apple to Spend $500 Billion on U.S. Expansion",
     "date": "2025-02-25 02:06:00",
     "journal": "WSJ Podcasts",
@@ -702,7 +684,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 7718,
+    "id": 7285,
     "title": "Why Apple &#x27;s AI Isn&#x27;t Very Smart Yet --- First wave of AI is coming to iPhones. The company&#x27;s software chief explains why so much is still missing.",
     "date": "2024-10-24 00:00:00",
     "journal": "The Wall Street Journal",
@@ -720,7 +702,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 7769,
+    "id": 7329,
     "title": "The Best Apple and Electronics Deals From Prime Day 2025, According to a Long-Time Tech Reviewer",
     "date": "2025-07-10 02:06:00",
     "journal": "Buy Side from WSJ",
@@ -738,7 +720,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 7798,
+    "id": 7358,
     "title": "Dow Jones Top Company Headlines at 11 AM ET Nvidia, Wayve in Talks Over $500 Million Investment in Self-Driving Car Startup | Apple ...",
     "date": "2025-09-19 20:30:00",
     "journal": "Dow Jones Newswires",
@@ -756,7 +738,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 7851,
+    "id": 7411,
     "title": "These Are the Best Cases for the iPhone 17 and iPhone Air, According to Our Longtime Apple Reviewer",
     "date": "2025-09-20 00:29:00",
     "journal": "Buy Side from WSJ Online",
@@ -774,7 +756,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 9184,
+    "id": 8658,
     "title": "Apple Stock Gets an Upgrade. That Doesn&#x27;t Mean It&#x27;s Time to Buy. -- Barrons.com",
     "date": "2025-07-02 19:26:00",
     "journal": "Dow Jones Newswires",
@@ -792,7 +774,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 9499,
+    "id": 8953,
     "title": "Will Trump tariffs make Apple iPhones more expensive?",
     "date": "2025-04-03 21:55:00",
     "journal": "Reuters News",
@@ -810,7 +792,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 9532,
+    "id": 8981,
     "title": "UPDATE 2-A $2,300 Apple iPhone? Trump tariffs could make that happen",
     "date": "2025-04-04 02:38:00",
     "journal": "Reuters News",
@@ -828,7 +810,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 9930,
+    "id": 9358,
     "title": "Dassault Systèmes partners with Apple to put industrial 3D software on Vision Pro",
     "date": "2025-02-26 01:10:00",
     "journal": "Reuters News",
@@ -846,7 +828,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 9945,
+    "id": 9373,
     "title": "The Best Apple and Electronics Deals From Prime Day 2025 You Can Still Get, According to a Long-Time Tech Reviewer",
     "date": "2025-07-12 17:50:00",
     "journal": "Buy Side from WSJ",
@@ -864,7 +846,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 10040,
+    "id": 9465,
     "title": "Press Release Apple MixC Hefei opens for customers this Saturday, January 18, in Anhui, China",
     "date": "2025-01-16 10:30:00",
     "journal": "Dow Jones Institutional News",
@@ -882,7 +864,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 10598,
+    "id": 9976,
     "title": "Press Release New iPhone 17 lineup and iPhone Air now at Verizon 5G power, incredible trade-in offers and savings that add up",
     "date": "2025-09-10 23:17:00",
     "journal": "Dow Jones Newswires",
@@ -900,7 +882,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 10690,
+    "id": 10063,
     "title": "Press Release Apple Hebbal opens this Tuesday, September 2, in Bengaluru",
     "date": "2025-09-01 11:00:00",
     "journal": "Dow Jones Newswires",
@@ -918,7 +900,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 10732,
+    "id": 10103,
     "title": "Google, Apple Can Grow AI Deal With Lawsuit Resolved -- Market Talk",
     "date": "2025-09-03 04:17:00",
     "journal": "Dow Jones Newswires",
@@ -936,7 +918,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 10942,
+    "id": 10302,
     "title": "Press Release Epson&#x27;s New PowerLite L-Series Portable Projectors Now Available and Compatible with Apple AirPlay",
     "date": "2025-06-11 15:56:00",
     "journal": "Dow Jones Newswires",
@@ -954,7 +936,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 11605,
+    "id": 10907,
     "title": "Press Release Apple increases U.S. commitment to $600 billion, announces American Manufacturing Program",
     "date": "2025-08-07 02:10:00",
     "journal": "Dow Jones Newswires",
@@ -972,7 +954,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 12775,
+    "id": 12016,
     "title": "The Best Apple Watch Bands to Personalize Your Look and Show Off Your Style",
     "date": "2025-03-10 22:16:00",
     "journal": "Buy Side from WSJ",
@@ -990,25 +972,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 12777,
-    "title": "The Best Apple Watch Bands to Personalize Your Look and Show Off Your Style",
-    "date": "2025-03-10 22:16:00",
-    "journal": "Buy Side from WSJ",
-    "company": "Fortune 500",
-    "region": "No",
-    "sentiment": "neutral",
-    "sentimentScore": 0.851807415485382,
-    "matchedText": "favorite",
-    "matchType": "word",
-    "numMatches": 1,
-    "sentence": "A place to store your bands  Twelve South&#x27;s TimePorter Wall Mount is one of our <span class=\"highlight-positive\">favorite</span> storage solutions for a growing Apple Watch band collection.",
-    "sentenceRaw": "A place to store your bands  Twelve South's TimePorter Wall Mount is one of our favorite storage solutions for a growing Apple Watch band collection.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "inclination",
-    "attitudePolarity": "positive"
-  },
-  {
-    "id": 13273,
+    "id": 12489,
     "title": "Press Release Apple Music celebrates 10 years with the launch of a new global hub for artists designed to foster creativity and connection",
     "date": "2025-06-30 18:41:00",
     "journal": "Dow Jones Newswires",
@@ -1026,7 +990,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 13586,
+    "id": 12776,
     "title": "Press Release Get iPhone 16 Pro on Us, Yearly iPhone Upgrades and America&#x27;s Leading 5G Network, Only at T-Mobile",
     "date": "2024-09-12 19:24:00",
     "journal": "Dow Jones Institutional News",
@@ -1044,7 +1008,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 18729,
+    "id": 17547,
     "title": "Boeing Invests in Norsk e-Fuel to Advance SAF Production -- OPIS",
     "date": "2025-01-23 22:12:00",
     "journal": "Dow Jones Institutional News",
@@ -1062,7 +1026,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 19875,
+    "id": 18604,
     "title": "What Went So Wrong With Boeing ? With trust gone and cash dwindling, questions swirl about potential endgames for a national icon",
     "date": "2024-10-26 06:30:00",
     "journal": "The Wall Street Journal Online",
@@ -1080,7 +1044,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 19906,
+    "id": 18633,
     "title": "EXCHANGE --- What Went So Wrong With Boeing ? --- With trust gone and cash dwindling, questions swirl about potential endgames for a national icon",
     "date": "2024-10-26 00:00:00",
     "journal": "The Wall Street Journal",
@@ -1098,7 +1062,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 20649,
+    "id": 19289,
     "title": "What Went So Wrong With Boeing ? -- WSJ",
     "date": "2024-10-26 06:30:00",
     "journal": "Dow Jones Institutional News",
@@ -1116,7 +1080,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 21822,
+    "id": 20378,
     "title": "Press Release Boeing Selects Jacobs to Deliver St. Louis Site Expansion",
     "date": "2025-06-05 17:15:00",
     "journal": "Dow Jones Newswires",
@@ -1134,7 +1098,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 22396,
+    "id": 20918,
     "title": "Korean Air to finalise Boeing plane order soon, highlighting US-S.Korea ties",
     "date": "2025-03-21 20:03:00",
     "journal": "Reuters News",
@@ -1152,7 +1116,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 22404,
+    "id": 20926,
     "title": "Korean Air to finalise Boeing plane order soon, highlighting US-S.Korea ties",
     "date": "2025-03-21 20:00:00",
     "journal": "Reuters News",
@@ -1170,7 +1134,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 22820,
+    "id": 21319,
     "title": "Press Release AviLease Places First Direct Boeing Order for up to 30 737 MAX Jets",
     "date": "2025-05-13 20:06:00",
     "journal": "Dow Jones Institutional News",
@@ -1188,7 +1152,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 24409,
+    "id": 22822,
     "title": "Press Release Korean Air Commits to Record Purchase of 103 Boeing Jets to Modernize Fleet",
     "date": "2025-08-26 04:13:00",
     "journal": "Dow Jones Newswires",
@@ -1206,7 +1170,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 25207,
+    "id": 23570,
     "title": "Press Release Boeing to Focus on Customers, Innovation and Partnership at Paris Air Show 2025",
     "date": "2025-06-09 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -1224,7 +1188,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 25218,
+    "id": 23580,
     "title": "Press Release Boeing to Focus on Customers, Innovation and Partnership at Paris Air Show 2025",
     "date": "2025-06-09 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -1242,7 +1206,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 25278,
+    "id": 23635,
     "title": "Trump FAA nominee vows to hold Boeing &#x27;accountable&#x27;",
     "date": "2025-06-11 20:42:00",
     "journal": "Reuters News",
@@ -1260,7 +1224,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 25815,
+    "id": 24138,
     "title": "Boeing taps Wisk Aero CEO to head commercial airplane product development",
     "date": "2025-05-08 01:36:00",
     "journal": "Reuters News",
@@ -1278,7 +1242,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 26028,
+    "id": 24340,
     "title": "UPDATE 1-Trump&#x27;s FAA nominee vows to hold Boeing &#x27;accountable&#x27;",
     "date": "2025-06-11 22:05:00",
     "journal": "Reuters News",
@@ -1296,7 +1260,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 26758,
+    "id": 24980,
     "title": "* Intel 3Q Loss $16.64B &gt;INTC",
     "date": "2024-11-01 01:31:00",
     "journal": "Dow Jones Institutional News",
@@ -1314,7 +1278,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 26879,
+    "id": 25080,
     "title": "TSMC Expected to Remain Key Foundry for Nvidia, Intel -- Market Talk",
     "date": "2025-09-23 10:01:00",
     "journal": "Dow Jones Newswires",
@@ -1332,7 +1296,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27287,
+    "id": 25465,
     "title": "Nvidia Investment Gets Intel Into AI Game -- Market Talk",
     "date": "2025-09-18 18:49:00",
     "journal": "Dow Jones Newswires",
@@ -1350,7 +1314,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27290,
+    "id": 25468,
     "title": "ASML Could Benefit From Nvidia- Intel Partnership -- Market Talk",
     "date": "2025-09-18 18:56:00",
     "journal": "Dow Jones Newswires",
@@ -1368,7 +1332,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27421,
+    "id": 25591,
     "title": "Nvidia to Invest $5 Bln in Intel as Part of AI and PC Products Partnership",
     "date": "2025-09-18 16:40:00",
     "journal": "Dow Jones Newswires",
@@ -1386,7 +1350,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27423,
+    "id": 25593,
     "title": "Press Release NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
     "date": "2025-09-18 16:30:00",
     "journal": "Dow Jones Newswires",
@@ -1404,7 +1368,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27428,
+    "id": 25598,
     "title": "Press Release NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
     "date": "2025-09-18 16:30:00",
     "journal": "Dow Jones Newswires",
@@ -1422,7 +1386,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27434,
+    "id": 25604,
     "title": "Press Release NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
     "date": "2025-09-18 16:30:00",
     "journal": "Dow Jones Newswires",
@@ -1440,7 +1404,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27438,
+    "id": 25607,
     "title": "Press Release NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
     "date": "2025-09-18 16:30:00",
     "journal": "Dow Jones Newswires",
@@ -1458,25 +1422,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27439,
-    "title": "Press Release NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
-    "date": "2025-09-18 16:30:00",
-    "journal": "Dow Jones Newswires",
-    "company": "N/A",
-    "region": "namz : North America | usa : United States | usca : California | usw : Western U.S.",
-    "sentiment": "negative",
-    "sentimentScore": 0.553686082363129,
-    "matchedText": "collaboration",
-    "matchType": "word",
-    "numMatches": 12,
-    "sentence": "Such risks and uncertainties include, among others, the risk that the anticipated benefits of the <span class=\"highlight-positive\">collaboration</span> agreement may not materialize, uncertainties as to the timing and success of any products that may be developed through the <span class=\"highlight-positive\">collaboration</span>, uncertainties as to the timing of the closing of the equity investment, the potential failure to satisfy the conditions to the closing of the equity investment, including the expiration or termination of any applicable waiting periods, and the receipt of any required approvals, under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, and other risks detailed in Intel&#x27;s filings with the SEC .",
-    "sentenceRaw": "Such risks and uncertainties include, among others, the risk that the anticipated benefits of the collaboration agreement may not materialize, uncertainties as to the timing and success of any products that may be developed through the collaboration, uncertainties as to the timing of the closing of the equity investment, the potential failure to satisfy the conditions to the closing of the equity investment, including the expiration or termination of any applicable waiting periods, and the receipt of any required approvals, under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, and other risks detailed in Intel's filings with the SEC .",
-    "attitudeType": "affect",
-    "attitudeSubtype": "inclination",
-    "attitudePolarity": "positive"
-  },
-  {
-    "id": 27455,
+    "id": 25621,
     "title": "Nvidia to Invest $5 Billion in Intel as Part of AI and PC Products -- WSJ",
     "date": "2025-09-18 17:01:00",
     "journal": "Dow Jones Newswires",
@@ -1494,7 +1440,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27459,
+    "id": 25625,
     "title": "Nvidia to Invest $5 Billion in Intel as Part of AI and PC Products -- WSJ",
     "date": "2025-09-18 17:01:00",
     "journal": "Dow Jones Newswires",
@@ -1512,7 +1458,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27460,
+    "id": 25626,
     "title": "Nvidia to Invest $5 Bln in Intel as Part of AI and PC Products Partnership -- Update",
     "date": "2025-09-18 16:49:00",
     "journal": "Dow Jones Newswires",
@@ -1530,7 +1476,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27486,
+    "id": 25650,
     "title": "Nvidia bets big on Intel with $5 billion stake and chip partnership",
     "date": "2025-09-18 16:30:00",
     "journal": "Reuters News",
@@ -1548,7 +1494,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27487,
+    "id": 25651,
     "title": "Nvidia bets big on Intel with $5 billion stake and chip partnership",
     "date": "2025-09-18 16:30:00",
     "journal": "Reuters News",
@@ -1566,7 +1512,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27493,
+    "id": 25657,
     "title": "Intel Shares Soar on $5 Billion Nvidia Investment",
     "date": "2025-09-18 17:25:00",
     "journal": "Dow Jones Newswires",
@@ -1584,7 +1530,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27498,
+    "id": 25662,
     "title": "Chip Companies Stocks Rise On Nvidia Investment in Intel",
     "date": "2025-09-18 17:57:00",
     "journal": "Dow Jones Newswires",
@@ -1602,7 +1548,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 27864,
+    "id": 25993,
     "title": "CORRECTED-How Intel &#x27;s Nvidia deal could help Intel &#x27;s next generation of chip manufacturing",
     "date": "2025-09-19 07:41:00",
     "journal": "Reuters News",
@@ -1620,7 +1566,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 28506,
+    "id": 26585,
     "title": "Press Release  Intel Foundry Gathers Customers and Partners, Outlines Priorities",
     "date": "2025-04-29 21:31:00",
     "journal": "Dow Jones Newswires",
@@ -1638,7 +1584,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 28529,
+    "id": 26608,
     "title": "Press Release  Keysight EDA and Intel Foundry Collaborate on EMIB-T Silicon Bridge Technology for Next-Generation AI and Data Center Solutions",
     "date": "2025-04-29 22:31:00",
     "journal": "Dow Jones Newswires",
@@ -1656,7 +1602,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 28531,
+    "id": 26610,
     "title": "Press Release  Keysight EDA and Intel Foundry Collaborate on EMIB-T Silicon Bridge Technology for Next-Generation AI and Data Center Solutions",
     "date": "2025-04-29 22:31:00",
     "journal": "Dow Jones Newswires",
@@ -1674,7 +1620,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 28533,
+    "id": 26612,
     "title": "Press Release  Keysight EDA and Intel Foundry Collaborate on EMIB-T Silicon Bridge Technology for Next-Generation AI and Data Center Solutions",
     "date": "2025-04-29 22:31:00",
     "journal": "Dow Jones Newswires",
@@ -1692,7 +1638,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 28552,
+    "id": 26630,
     "title": "Press Release Arteris Joins Intel Foundry Accelerator Ecosystem Alliance Program to Support Advanced Semiconductor Designs",
     "date": "2025-04-30 18:30:00",
     "journal": "Dow Jones Institutional News",
@@ -1710,7 +1656,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 28557,
+    "id": 26635,
     "title": "Press Release Arteris Joins Intel Foundry Accelerator Ecosystem Alliance Program to Support Advanced Semiconductor Designs",
     "date": "2025-04-30 18:30:00",
     "journal": "Dow Jones Institutional News",
@@ -1728,7 +1674,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 29118,
+    "id": 27167,
     "title": "Press Release Marvell Announces Successful Interoperability of Structera CXL Portfolio with AMD EPYC CPU and 5th Gen Intel Xeon Scalable Platforms",
     "date": "2025-04-23 18:30:00",
     "journal": "Dow Jones Institutional News",
@@ -1746,7 +1692,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 29120,
+    "id": 27169,
     "title": "Press Release Marvell Announces Successful Interoperability of Structera CXL Portfolio with AMD EPYC CPU and 5th Gen Intel Xeon Scalable Platforms",
     "date": "2025-04-23 18:30:00",
     "journal": "Dow Jones Institutional News",
@@ -1764,7 +1710,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 29242,
+    "id": 27259,
     "title": "Press Release Intel Unveils Next-Generation AI Solutions with the Launch of Xeon 6 and Gaudi 3",
     "date": "2024-09-24 20:30:00",
     "journal": "Dow Jones Institutional News",
@@ -1782,7 +1728,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 29243,
+    "id": 27260,
     "title": "Press Release Intel Unveils Next-Generation AI Solutions with the Launch of Xeon 6 and Gaudi 3",
     "date": "2024-09-24 20:30:00",
     "journal": "Dow Jones Institutional News",
@@ -1800,7 +1746,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 29336,
+    "id": 27343,
     "title": "Keywords Intel &#x27;s Problems Are Even Worse Than You&#x27;ve Heard -- WSJ",
     "date": "2025-01-04 13:02:00",
     "journal": "Dow Jones Institutional News",
@@ -1818,7 +1764,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 29480,
+    "id": 27475,
     "title": "Press Release Acer&#x27;s New Swift Go and Aspire Vero 16 Laptops Feature New Intel Core Ultra 200H Series Processors and Sustainable Designs",
     "date": "2025-01-07 01:23:00",
     "journal": "Dow Jones Institutional News",
@@ -1836,7 +1782,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 29515,
+    "id": 27491,
     "title": "Press Release Cirrus Logic Unveils Flexible Audio Solution for Intel Core Ultra Processors, Enabling Enhanced Audio from Mainstream to Premium PCs",
     "date": "2025-01-07 20:00:00",
     "journal": "Dow Jones Institutional News",
@@ -1854,25 +1800,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 29516,
-    "title": "Press Release Cirrus Logic Unveils Flexible Audio Solution for Intel Core Ultra Processors, Enabling Enhanced Audio from Mainstream to Premium PCs",
-    "date": "2025-01-07 20:00:00",
-    "journal": "Dow Jones Institutional News",
-    "company": "N/A",
-    "region": "namz : North America | usa : United States",
-    "sentiment": "positive",
-    "sentimentScore": 0.847904026508331,
-    "matchedText": "collaboration",
-    "matchType": "word",
-    "numMatches": 3,
-    "sentence": "Cirrus Logic Unveils Flexible Audio Solution for Intel Core Ultra Processors, Enabling Enhanced Audio from Mainstream to Premium PCs <span class=\"highlight-positive\">collaboration</span> Brings Superior Sound Quality, Lower Power Consumption, and Flexible Audio Options to Future PCs AUSTIN, Texas--(BUSINESS WIRE)--January 07, 2025-- Cirrus Logic (Nasdaq: CRUS) today announced <span class=\"highlight-positive\">collaboration</span> with Intel to launch a reference design based on the new Intel(R) Core(TM) Ultra processors (series 2), formerly codenamed Arrow Lake, with Cirrus Logic&#x27;s high-quality audio solutions.",
-    "sentenceRaw": "Cirrus Logic Unveils Flexible Audio Solution for Intel Core Ultra Processors, Enabling Enhanced Audio from Mainstream to Premium PCs Collaboration Brings Superior Sound Quality, Lower Power Consumption, and Flexible Audio Options to Future PCs AUSTIN, Texas--(BUSINESS WIRE)--January 07, 2025-- Cirrus Logic (Nasdaq: CRUS) today announced collaboration with Intel to launch a reference design based on the new Intel(R) Core(TM) Ultra processors (series 2), formerly codenamed Arrow Lake, with Cirrus Logic's high-quality audio solutions.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "inclination",
-    "attitudePolarity": "positive"
-  },
-  {
-    "id": 29527,
+    "id": 27502,
     "title": "Press Release Trend Micro and Intel Innovate to Weed Out Covert Threats",
     "date": "2025-01-07 21:15:00",
     "journal": "Dow Jones Institutional News",
@@ -1890,7 +1818,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 29839,
+    "id": 27795,
     "title": "Press Release MWC 2025 Intel Showcases Foundational Network Infrastructure with Xeon 6",
     "date": "2025-03-03 15:59:00",
     "journal": "Dow Jones Institutional News",
@@ -1908,7 +1836,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30008,
+    "id": 27939,
     "title": "CORRECTED-EXCLUSIVE- Intel CEO Lip-Bu Tan flattens leadership structure, names new AI chief, memo says",
     "date": "2025-04-18 06:46:00",
     "journal": "Reuters News",
@@ -1926,7 +1854,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30033,
+    "id": 27964,
     "title": "Trend Micro and Intel Innovate to Weed Out Covert Threats",
     "date": "2025-01-10 09:00:00",
     "journal": "Dow Jones Institutional News",
@@ -1944,7 +1872,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30218,
+    "id": 28138,
     "title": "Press Release Industry First -- Supermicro Systems Certified by Intel for an Immersion Cooling Solution",
     "date": "2025-07-01 01:35:00",
     "journal": "Dow Jones Newswires",
@@ -1962,7 +1890,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30227,
+    "id": 28146,
     "title": "Press Release Industry First -- Supermicro Systems Certified by Intel for an Immersion Cooling Solution",
     "date": "2025-07-01 01:35:00",
     "journal": "Dow Jones Newswires",
@@ -1980,7 +1908,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30283,
+    "id": 28199,
     "title": "Press Release Elliptic Labs and Intel Corporation Collaborate to Elevate Premium Laptop Experiences on Intel (R) Core(R) Ultra and Intel Evo(TM) Edition Platforms",
     "date": "2025-09-04 23:44:00",
     "journal": "Dow Jones Newswires",
@@ -1998,7 +1926,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30290,
+    "id": 28206,
     "title": "Press Release Elliptic Labs and Intel Corporation Collaborate to Elevate Premium Laptop Experiences on Intel (R) Core(R) Ultra and Intel Evo(TM) Edition Platforms",
     "date": "2025-09-04 23:44:00",
     "journal": "Dow Jones Newswires",
@@ -2016,7 +1944,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30292,
+    "id": 28208,
     "title": "Press Release Elliptic Labs and Intel Corporation Collaborate to Elevate Premium Laptop Experiences on Intel (R) Core(R) Ultra and Intel Evo(TM) Edition Platforms",
     "date": "2025-09-04 23:44:00",
     "journal": "Dow Jones Newswires",
@@ -2034,7 +1962,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30425,
+    "id": 28328,
     "title": "Press Release Advantech Unveils AFE-R360 A Next-Generation AMR Solution with MIPI-CSI &amp; GMSL Camera Integration Powered by Intel (R) Core(TM) Ultra",
     "date": "2024-11-01 08:49:00",
     "journal": "Dow Jones Institutional News",
@@ -2052,7 +1980,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30641,
+    "id": 28536,
     "title": "Press Release  Arqit , in collaboration with Equus and Intel , demonstrates a world-first Quantum -Safe CSfC-Compliant MACP Architecture for Classified Mobile Communications",
     "date": "2025-04-29 18:30:00",
     "journal": "Dow Jones Newswires",
@@ -2070,7 +1998,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30642,
+    "id": 28537,
     "title": "Press Release  Arqit , in collaboration with Equus and Intel , demonstrates a world-first Quantum -Safe CSfC-Compliant MACP Architecture for Classified Mobile Communications",
     "date": "2025-04-29 18:30:00",
     "journal": "Dow Jones Newswires",
@@ -2088,7 +2016,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30645,
+    "id": 28540,
     "title": "Press Release  Arqit , in collaboration with Equus and Intel , demonstrates a world-first Quantum -Safe CSfC-Compliant MACP Architecture for Classified Mobile Communications",
     "date": "2025-04-29 18:30:00",
     "journal": "Dow Jones Newswires",
@@ -2106,7 +2034,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30648,
+    "id": 28543,
     "title": "Press Release  Arqit , in collaboration with Equus and Intel , demonstrates a world-first Quantum -Safe CSfC-Compliant MACP Architecture for Classified Mobile Communications",
     "date": "2025-04-29 18:30:00",
     "journal": "Dow Jones Newswires",
@@ -2124,7 +2052,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30650,
+    "id": 28545,
     "title": "Press Release  Lenovo and Intel Collaborate on ThinkShield Build Assure to Enhance Supply Chain Cyber Security",
     "date": "2025-04-29 18:30:00",
     "journal": "Dow Jones Newswires",
@@ -2142,7 +2070,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30652,
+    "id": 28547,
     "title": "Press Release  Lenovo and Intel Collaborate on ThinkShield Build Assure to Enhance Supply Chain Cyber Security",
     "date": "2025-04-29 18:30:00",
     "journal": "Dow Jones Newswires",
@@ -2160,7 +2088,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30655,
+    "id": 28550,
     "title": "Press Release  Lenovo and Intel Collaborate on ThinkShield Build Assure to Enhance Supply Chain Cyber Security",
     "date": "2025-04-29 18:30:00",
     "journal": "Dow Jones Newswires",
@@ -2178,7 +2106,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30657,
+    "id": 28552,
     "title": "Press Release  Lenovo and Intel Collaborate on ThinkShield Build Assure to Enhance Supply Chain Cyber Security",
     "date": "2025-04-29 18:30:00",
     "journal": "Dow Jones Newswires",
@@ -2196,7 +2124,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30669,
+    "id": 28564,
     "title": "Press Release  Synopsys and Intel Foundry Propel Angstrom-Scale Chip Designs on Intel 18A and Intel 18A-P Technologies",
     "date": "2025-04-29 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -2214,7 +2142,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30673,
+    "id": 28568,
     "title": "Press Release  Synopsys and Intel Foundry Propel Angstrom-Scale Chip Designs on Intel 18A and Intel 18A-P Technologies",
     "date": "2025-04-29 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -2232,7 +2160,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30681,
+    "id": 28576,
     "title": "Press Release  Synopsys and Intel Foundry Propel Angstrom-Scale Chip Designs on Intel 18A and Intel 18A-P Technologies",
     "date": "2025-04-29 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -2250,7 +2178,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30686,
+    "id": 28581,
     "title": "Press Release  Synopsys and Intel Foundry Propel Angstrom-Scale Chip Designs on Intel 18A and Intel 18A-P Technologies",
     "date": "2025-04-29 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -2268,7 +2196,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30696,
+    "id": 28591,
     "title": "Press Release  Ansys Thermal and Multiphysics Solutions Certified for Intel 18A Process and 3D-IC Designs",
     "date": "2025-04-29 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -2286,7 +2214,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30704,
+    "id": 28599,
     "title": "Press Release  Ansys Thermal and Multiphysics Solutions Certified for Intel 18A Process and 3D-IC Designs",
     "date": "2025-04-29 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -2304,7 +2232,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30717,
+    "id": 28612,
     "title": "Press Release  Cadence Expands Design IP Portfolio Optimized for Intel 18A and Intel 18A-P Technologies, Advancing AI, HPC and Mobility Applications",
     "date": "2025-04-29 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -2322,7 +2250,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30723,
+    "id": 28618,
     "title": "Press Release  Cadence Expands Design IP Portfolio Optimized for Intel 18A and Intel 18A-P Technologies, Advancing AI, HPC and Mobility Applications",
     "date": "2025-04-29 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -2340,7 +2268,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 30726,
+    "id": 28621,
     "title": "Press Release  Cadence Expands Design IP Portfolio Optimized for Intel 18A and Intel 18A-P Technologies, Advancing AI, HPC and Mobility Applications",
     "date": "2025-04-29 21:30:00",
     "journal": "Dow Jones Newswires",
@@ -2358,7 +2286,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31165,
+    "id": 29035,
     "title": "Press Release Intel Awarded up to $3B by the Biden-Harris Administration for Secure Enclave",
     "date": "2024-09-16 23:32:00",
     "journal": "Dow Jones Institutional News",
@@ -2376,7 +2304,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31167,
+    "id": 29037,
     "title": "Press Release Intel Awarded up to $3B by the Biden-Harris Administration for Secure Enclave",
     "date": "2024-09-16 23:32:00",
     "journal": "Dow Jones Institutional News",
@@ -2394,7 +2322,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31181,
+    "id": 29050,
     "title": "Press Release Intel Awarded up to $3B by the Biden-Harris Administration for Secure Enclave",
     "date": "2024-09-16 23:32:00",
     "journal": "Dow Jones Institutional News",
@@ -2412,7 +2340,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31191,
+    "id": 29058,
     "title": "Intel Gets Up to $3B for Semiconductor Production Under Secure Enclave Program",
     "date": "2024-09-17 00:05:00",
     "journal": "Dow Jones Institutional News",
@@ -2430,7 +2358,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31272,
+    "id": 29135,
     "title": "Press Release Keysight joins Intel Foundry Accelerator United States Military, Aerospace and Government Alliance",
     "date": "2024-12-11 21:30:00",
     "journal": "Dow Jones Institutional News",
@@ -2448,7 +2376,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31278,
+    "id": 29141,
     "title": "Press Release Keysight joins Intel Foundry Accelerator United States Military, Aerospace and Government Alliance",
     "date": "2024-12-11 21:30:00",
     "journal": "Dow Jones Institutional News",
@@ -2466,7 +2394,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31355,
+    "id": 29217,
     "title": "CORRECTED-UPDATE 1- Intel CEO says he met with TSMC CEO to discuss collaboration",
     "date": "2025-04-25 05:30:00",
     "journal": "Reuters News",
@@ -2484,7 +2412,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31356,
+    "id": 29218,
     "title": "CORRECTED-UPDATE 1- Intel CEO says he met with TSMC CEO to discuss collaboration",
     "date": "2025-04-25 05:30:00",
     "journal": "Reuters News",
@@ -2502,7 +2430,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31526,
+    "id": 29383,
     "title": "Press Release QuickLogic Joins Intel Foundry Chiplet Alliance",
     "date": "2025-06-10 16:35:00",
     "journal": "Dow Jones Newswires",
@@ -2520,7 +2448,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31528,
+    "id": 29385,
     "title": "Press Release QuickLogic Joins Intel Foundry Chiplet Alliance",
     "date": "2025-06-10 16:35:00",
     "journal": "Dow Jones Newswires",
@@ -2538,7 +2466,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31817,
+    "id": 29654,
     "title": "Intel CEO says he met with TSMC CEO to discuss collaboration",
     "date": "2025-04-25 03:42:00",
     "journal": "Reuters News",
@@ -2556,7 +2484,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31825,
+    "id": 29662,
     "title": "Intel CEO says he met with TSMC CEO to discuss collaboration",
     "date": "2025-04-25 05:43:00",
     "journal": "Reuters News",
@@ -2574,7 +2502,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31942,
+    "id": 29773,
     "title": "Press Release Elliptic Labs and Intel Announcing Long-Term Partnership to Power the Future of AI PCs",
     "date": "2025-05-21 10:30:00",
     "journal": "Dow Jones Newswires",
@@ -2592,7 +2520,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31950,
+    "id": 29780,
     "title": "Press Release EQTY Lab, Intel , and NVIDIA Unveil &#x27;Verifiable Compute,&#x27; A Solution to Secure Trusted AI",
     "date": "2024-12-19 02:30:00",
     "journal": "Dow Jones Institutional News",
@@ -2610,7 +2538,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31961,
+    "id": 29791,
     "title": "Press Release GRAMMY-WINNING ARTIST ALESSIA CARA PARTNERS WITH LENOVO AND INTEL FOR THE &quot;MADE BY&quot; CAMPAIGN, FEATURING A BEHIND-THE-SCENES MINISERIES AND EXCLUSIVE LIVE EXPERIENCE",
     "date": "2024-12-19 19:30:00",
     "journal": "Dow Jones Institutional News",
@@ -2628,7 +2556,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31963,
+    "id": 29793,
     "title": "Press Release GRAMMY-WINNING ARTIST ALESSIA CARA PARTNERS WITH LENOVO AND INTEL FOR THE &quot;MADE BY&quot; CAMPAIGN, FEATURING A BEHIND-THE-SCENES MINISERIES AND EXCLUSIVE LIVE EXPERIENCE",
     "date": "2024-12-19 19:30:00",
     "journal": "Dow Jones Institutional News",
@@ -2646,7 +2574,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 31965,
+    "id": 29795,
     "title": "Press Release GRAMMY-WINNING ARTIST ALESSIA CARA PARTNERS WITH LENOVO AND INTEL FOR THE &quot;MADE BY&quot; CAMPAIGN, FEATURING A BEHIND-THE-SCENES MINISERIES AND EXCLUSIVE LIVE EXPERIENCE",
     "date": "2024-12-19 19:30:00",
     "journal": "Dow Jones Institutional News",
@@ -2664,7 +2592,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32002,
+    "id": 29832,
     "title": "BRIEF- Intel And AWS Expand Strategic Collaboration",
     "date": "2024-09-17 01:47:00",
     "journal": "Reuters News",
@@ -2682,25 +2610,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32003,
-    "title": "BRIEF- Intel And AWS Expand Strategic Collaboration",
-    "date": "2024-09-17 01:47:00",
-    "journal": "Reuters News",
-    "company": "Amazon.com Inc",
-    "region": "No",
-    "sentiment": "neutral",
-    "sentimentScore": 0.713784217834473,
-    "matchedText": "collaboration",
-    "matchType": "word",
-    "numMatches": 2,
-    "sentence": "Sept 16 (Reuters) - Amazon.com Inc: * INTEL: INTEL AND AWS EXPAND STRATEGIC <span class=\"highlight-positive\">collaboration</span> * INTEL - AS PART OF EXPANDED <span class=\"highlight-positive\">collaboration</span>, INTEL WILL PRODUCE AN AI FABRIC CHIP FOR AWS ON INTEL 18A * INTEL: CO-INVESTMENT IN CUSTOM CHIP DESIGNS UNDER MULTI-YEAR, MULTI-BILLION-DOLLAR FRAMEWORK Further company coverage: (Reuters.Briefs@thomsonreuters.com)",
-    "sentenceRaw": "Sept 16 (Reuters) - Amazon.com Inc: * INTEL: INTEL AND AWS EXPAND STRATEGIC COLLABORATION * INTEL - AS PART OF EXPANDED COLLABORATION, INTEL WILL PRODUCE AN AI FABRIC CHIP FOR AWS ON INTEL 18A * INTEL: CO-INVESTMENT IN CUSTOM CHIP DESIGNS UNDER MULTI-YEAR, MULTI-BILLION-DOLLAR FRAMEWORK Further company coverage: (Reuters.Briefs@thomsonreuters.com)",
-    "attitudeType": "affect",
-    "attitudeSubtype": "inclination",
-    "attitudePolarity": "positive"
-  },
-  {
-    "id": 32004,
+    "id": 29833,
     "title": "* Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing",
     "date": "2024-09-17 01:31:00",
     "journal": "Dow Jones Institutional News",
@@ -2718,43 +2628,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32005,
-    "title": "* Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing",
-    "date": "2024-09-17 01:31:00",
-    "journal": "Dow Jones Institutional News",
-    "company": "N/A",
-    "region": "namz : North America | usa : United States | usc : Midwest U.S. | usoh : Ohio",
-    "sentiment": "positive",
-    "sentimentScore": 0.908067226409912,
-    "matchedText": "collaboration",
-    "matchType": "word",
-    "numMatches": 3,
-    "sentence": "16 Sep 2024 16:01 ET *Intel: To Produce Custom AI Fabric Chip on Intel 18A and Custom Xeon 6 Chip on Intel 3 for AWS &gt;INTC 16 Sep 2024 16:02 ET *Intel, AWS: Underscore Commitments to Accelerate US-based Semiconductor Manufacturing, Creating Vibrant AI Ecosystem in Ohio &gt;INTC 16 Sep 2024 17:48 ET  Press Release: Intel and AWS Expand Strategic <span class=\"highlight-positive\">collaboration</span>, Helping Advance U.S.-Based Chip Manufacturing Intel and AWS Expand Strategic <span class=\"highlight-positive\">collaboration</span>, Helping Advance U.S.-Based Chip Manufacturing Intel to Produce Custom AI Fabric Chip on Intel 18A and Custom Xeon 6 Chip on Intel 3 for AWS; Multi-Year, Multi-Billion-Dollar <span class=\"highlight-positive\">collaboration</span> Accelerates Development of Chip Manufacturing in Ohio SANTA CLARA, Calif.",
-    "sentenceRaw": "16 Sep 2024 16:01 ET *Intel: To Produce Custom AI Fabric Chip on Intel 18A and Custom Xeon 6 Chip on Intel 3 for AWS >INTC 16 Sep 2024 16:02 ET *Intel, AWS: Underscore Commitments to Accelerate US-based Semiconductor Manufacturing, Creating Vibrant AI Ecosystem in Ohio >INTC 16 Sep 2024 17:48 ET  Press Release: Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing Intel to Produce Custom AI Fabric Chip on Intel 18A and Custom Xeon 6 Chip on Intel 3 for AWS; Multi-Year, Multi-Billion-Dollar Collaboration Accelerates Development of Chip Manufacturing in Ohio SANTA CLARA, Calif.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "inclination",
-    "attitudePolarity": "positive"
-  },
-  {
-    "id": 32006,
-    "title": "* Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing",
-    "date": "2024-09-17 01:31:00",
-    "journal": "Dow Jones Institutional News",
-    "company": "N/A",
-    "region": "namz : North America | usa : United States | usc : Midwest U.S. | usoh : Ohio",
-    "sentiment": "positive",
-    "sentimentScore": 0.908067226409912,
-    "matchedText": "collaboration",
-    "matchType": "word",
-    "numMatches": 3,
-    "sentence": "16 Sep 2024 16:01 ET *Intel: To Produce Custom AI Fabric Chip on Intel 18A and Custom Xeon 6 Chip on Intel 3 for AWS &gt;INTC 16 Sep 2024 16:02 ET *Intel, AWS: Underscore Commitments to Accelerate US-based Semiconductor Manufacturing, Creating Vibrant AI Ecosystem in Ohio &gt;INTC 16 Sep 2024 17:48 ET  Press Release: Intel and AWS Expand Strategic <span class=\"highlight-positive\">collaboration</span>, Helping Advance U.S.-Based Chip Manufacturing Intel and AWS Expand Strategic <span class=\"highlight-positive\">collaboration</span>, Helping Advance U.S.-Based Chip Manufacturing Intel to Produce Custom AI Fabric Chip on Intel 18A and Custom Xeon 6 Chip on Intel 3 for AWS; Multi-Year, Multi-Billion-Dollar <span class=\"highlight-positive\">collaboration</span> Accelerates Development of Chip Manufacturing in Ohio SANTA CLARA, Calif.",
-    "sentenceRaw": "16 Sep 2024 16:01 ET *Intel: To Produce Custom AI Fabric Chip on Intel 18A and Custom Xeon 6 Chip on Intel 3 for AWS >INTC 16 Sep 2024 16:02 ET *Intel, AWS: Underscore Commitments to Accelerate US-based Semiconductor Manufacturing, Creating Vibrant AI Ecosystem in Ohio >INTC 16 Sep 2024 17:48 ET  Press Release: Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing Intel to Produce Custom AI Fabric Chip on Intel 18A and Custom Xeon 6 Chip on Intel 3 for AWS; Multi-Year, Multi-Billion-Dollar Collaboration Accelerates Development of Chip Manufacturing in Ohio SANTA CLARA, Calif.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "inclination",
-    "attitudePolarity": "positive"
-  },
-  {
-    "id": 32010,
+    "id": 29837,
     "title": "* Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing",
     "date": "2024-09-17 01:31:00",
     "journal": "Dow Jones Institutional News",
@@ -2772,7 +2646,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32011,
+    "id": 29838,
     "title": "* Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing",
     "date": "2024-09-17 01:31:00",
     "journal": "Dow Jones Institutional News",
@@ -2790,7 +2664,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32015,
+    "id": 29842,
     "title": "* Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing",
     "date": "2024-09-17 01:31:00",
     "journal": "Dow Jones Institutional News",
@@ -2808,7 +2682,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32016,
+    "id": 29843,
     "title": "* Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing",
     "date": "2024-09-17 01:31:00",
     "journal": "Dow Jones Institutional News",
@@ -2826,7 +2700,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32018,
+    "id": 29845,
     "title": "* Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing",
     "date": "2024-09-17 01:31:00",
     "journal": "Dow Jones Institutional News",
@@ -2844,7 +2718,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32058,
+    "id": 29881,
     "title": "u-blox Collaborates with Intel to Elevate Time Synchronization for vRAN",
     "date": "2025-02-25 14:26:00",
     "journal": "Dow Jones Institutional News",
@@ -2862,7 +2736,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32061,
+    "id": 29884,
     "title": "u-blox Collaborates with Intel to Elevate Time Synchronization for vRAN",
     "date": "2025-02-25 14:26:00",
     "journal": "Dow Jones Institutional News",
@@ -2880,7 +2754,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32064,
+    "id": 29887,
     "title": "u-blox Collaborates with Intel to Elevate Time Synchronization for vRAN",
     "date": "2025-02-25 14:26:00",
     "journal": "Dow Jones Institutional News",
@@ -2898,7 +2772,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32168,
+    "id": 29986,
     "title": "Acronis and Intel Partner to Deliver Efficient, AI-Driven Threat Detection for Endpoint Devices",
     "date": "2025-08-27 17:30:00",
     "journal": "Dow Jones Newswires",
@@ -2916,7 +2790,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32169,
+    "id": 29987,
     "title": "Acronis and Intel Partner to Deliver Efficient, AI-Driven Threat Detection for Endpoint Devices",
     "date": "2025-08-27 17:30:00",
     "journal": "Dow Jones Newswires",
@@ -2934,7 +2808,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32681,
+    "id": 30432,
     "title": "Intel Files 8K - Regulation FD &gt;INTC",
     "date": "2025-09-19 01:36:00",
     "journal": "Dow Jones Newswires",
@@ -2952,7 +2826,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32684,
+    "id": 30435,
     "title": "Major U.S. Stock Indexes Close Higher; Intel Jumps on Nvidia Deal -- WSJ",
     "date": "2025-09-19 01:49:00",
     "journal": "Dow Jones Newswires",
@@ -2970,7 +2844,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32736,
+    "id": 30485,
     "title": "Press Release ASUS Unveils Intel -Driven Copilot+ PCs at Always Incredible Media Day for IFA 2024",
     "date": "2024-09-04 21:30:00",
     "journal": "Dow Jones Institutional News",
@@ -2988,7 +2862,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32816,
+    "id": 30558,
     "title": "BRIEF-Chipsea Technologies Shenzhen Corp Ltd In Collaboration With Intel , Introduced A New Line Of Edge Bmc Products",
     "date": "2024-09-09 15:58:00",
     "journal": "Reuters News",
@@ -3006,7 +2880,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 32878,
+    "id": 30618,
     "title": "BRIEF-HCLTech Launches Enterprise Data Security Service In Collaboration With Intel",
     "date": "2024-11-26 13:10:00",
     "journal": "Reuters News",
@@ -3024,7 +2898,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 33103,
+    "id": 30824,
     "title": "Intel &#x27;s foundry future depends on securing a customer for next-gen chipmaking tech",
     "date": "2025-07-25 07:18:00",
     "journal": "Reuters News",
@@ -3042,7 +2916,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 33177,
+    "id": 30896,
     "title": "Press Release Mavenir Innovates with Intel to Integrate AI in Mavenir&#x27;s Commercial Open RAN Software",
     "date": "2024-10-14 09:05:00",
     "journal": "Dow Jones Institutional News",
@@ -3060,7 +2934,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 33181,
+    "id": 30900,
     "title": "Press Release Mavenir Innovates with Intel to Integrate AI in Mavenir&#x27;s Commercial Open RAN Software",
     "date": "2024-10-14 09:05:00",
     "journal": "Dow Jones Institutional News",
@@ -3078,7 +2952,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 33206,
+    "id": 30921,
     "title": "Chip Stocks Rise on Nvidia Investment in Intel -- Update",
     "date": "2025-09-18 20:22:00",
     "journal": "Dow Jones Newswires",
@@ -3096,7 +2970,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 33592,
+    "id": 31264,
     "title": "* NIKE , NFL Extend Partnership Through 2038",
     "date": "2024-12-11 22:43:00",
     "journal": "Dow Jones Institutional News",
@@ -3114,7 +2988,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 33710,
+    "id": 31374,
     "title": "Nike Expected to See Revenue Decline Decelerate in 1Q -- Earnings Preview",
     "date": "2025-09-29 21:18:00",
     "journal": "Dow Jones Newswires",
@@ -3132,7 +3006,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 34015,
+    "id": 31632,
     "title": "Nike &#x27;s Retail Partner Relationships Seen as Improving -- Market Talk",
     "date": "2025-06-27 17:09:00",
     "journal": "Dow Jones Newswires",
@@ -3150,7 +3024,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 34745,
+    "id": 32295,
     "title": "Hire the Intern as CEO. Seriously -- Just Do It. -- WSJ",
     "date": "2024-09-28 06:30:00",
     "journal": "Dow Jones Institutional News",
@@ -3168,7 +3042,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 34832,
+    "id": 32371,
     "title": "Nike Stock Rises With Kim Kardashian&#x27;s Skims Partnership -- Update",
     "date": "2025-02-19 01:31:00",
     "journal": "Dow Jones Institutional News",
@@ -3186,7 +3060,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 35150,
+    "id": 32651,
     "title": "Lululemon and Nike Are Less Popular Among Teens. Why That&#x27;s a Problem. -- Barrons.com",
     "date": "2024-10-09 23:47:00",
     "journal": "Dow Jones Institutional News",
@@ -3204,7 +3078,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 35585,
+    "id": 33046,
     "title": "Nike Names New Head of North America in Push to Fix Core Business; Tom Peddie will succeed Scott Uzzell, who is retiring",
     "date": "2024-10-11 03:34:00",
     "journal": "The Wall Street Journal Online",
@@ -3222,7 +3096,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 35803,
+    "id": 33251,
     "title": "Nike &#x27;s Skims Line Launches Today. Will It Be Enough for the Struggling Stock? -- Barrons.com",
     "date": "2025-09-26 17:58:00",
     "journal": "Dow Jones Newswires",
@@ -3240,7 +3114,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 35805,
+    "id": 33253,
     "title": "Nike &#x27;s Skims Line Launches Today. Will It Be Enough for the Struggling Stock? -- Barrons.com",
     "date": "2025-09-26 17:58:00",
     "journal": "Dow Jones Newswires",
@@ -3258,7 +3132,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 35889,
+    "id": 33327,
     "title": "Nike Extends NBA, WNBA Outfitting Partnership",
     "date": "2024-10-22 02:16:00",
     "journal": "Dow Jones Institutional News",
@@ -3276,7 +3150,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 35891,
+    "id": 33329,
     "title": "Nike Extends NBA, WNBA Outfitting Partnership",
     "date": "2024-10-22 02:16:00",
     "journal": "Dow Jones Institutional News",
@@ -3294,7 +3168,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 35975,
+    "id": 33405,
     "title": "* Nike and Special Olympics Announce Three-Year Partnership",
     "date": "2025-07-15 01:49:00",
     "journal": "Dow Jones Newswires",
@@ -3312,7 +3186,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 35982,
+    "id": 33412,
     "title": "* Nike and Special Olympics Announce Three-Year Partnership",
     "date": "2025-07-15 01:49:00",
     "journal": "Dow Jones Newswires",
@@ -3330,7 +3204,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 37325,
+    "id": 34627,
     "title": "Press Release Walgreens Marks One-Year Anniversary of Deans Advisory Council, Driving Progress in Addressing Pharmacy Industry Challenges",
     "date": "2025-02-04 18:35:00",
     "journal": "Dow Jones Institutional News",
@@ -3348,7 +3222,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 37467,
+    "id": 34758,
     "title": "Press Release LiveRamp and Walgreens Advertising Group Deliver Business Growth for Advertisers Through Robust Data Collaboration Partnership",
     "date": "2025-06-11 15:00:00",
     "journal": "Dow Jones Newswires",
@@ -3366,7 +3240,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 37469,
+    "id": 34760,
     "title": "Press Release LiveRamp and Walgreens Advertising Group Deliver Business Growth for Advertisers Through Robust Data Collaboration Partnership",
     "date": "2025-06-11 15:00:00",
     "journal": "Dow Jones Newswires",
@@ -3384,7 +3258,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 37983,
+    "id": 35249,
     "title": "Press Release Walgreens Launches Inaugural Patient Advisory Board to Advance Access and Representation in Clinical Research",
     "date": "2024-12-13 19:30:00",
     "journal": "Dow Jones Institutional News",
@@ -3402,7 +3276,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 38466,
+    "id": 35671,
     "title": "TIMELINE-The rise and decline of Intel",
     "date": "2024-10-30 01:14:00",
     "journal": "Reuters News",
@@ -3420,7 +3294,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 38467,
+    "id": 35672,
     "title": "Hedge Funds Hate Apple Stock. Why They Could Be Wrong. -- Barrons.com",
     "date": "2025-04-23 23:51:00",
     "journal": "Dow Jones Institutional News",
@@ -3438,7 +3312,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 38468,
+    "id": 35673,
     "title": "The Driver of Apple &#x27;s Exploding Valuation Is Under Threat. See What&#x27;s at Stake. -- WSJ",
     "date": "2025-07-29 15:00:00",
     "journal": "Dow Jones Newswires",
@@ -3456,7 +3330,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 38470,
+    "id": 35675,
     "title": "EXCLUSIVE- Intel &#x27;s new CEO explores big shift in chip manufacturing business",
     "date": "2025-07-02 06:55:00",
     "journal": "Reuters News",
@@ -3474,7 +3348,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 38472,
+    "id": 35676,
     "title": "AIR INDIA AIR INDIA WILL ALSO UNDERTAKE ENHANCED SAFETY CHECKS ON ITS BOEING 777 FLEET",
     "date": "2025-06-18 22:37:00",
     "journal": "Reuters News",
@@ -3492,7 +3366,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 38477,
+    "id": 35681,
     "title": "BRIEF- Intel Appoints Eric Meurice And Steve Sanghi To Board",
     "date": "2024-12-05 19:55:00",
     "journal": "Reuters News",
@@ -3510,7 +3384,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 38478,
+    "id": 35682,
     "title": "Trump &#x27;not happy with Boeing &#x27; over Air Force One planes",
     "date": "2025-02-20 09:18:00",
     "journal": "Reuters News",
@@ -3528,7 +3402,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 38481,
+    "id": 35685,
     "title": "A Test for Apple &#x27;s New iPhone Beating Chinese Rivals With Home-Field Edge -- WSJ",
     "date": "2025-02-23 09:30:00",
     "journal": "Dow Jones Institutional News",
@@ -3546,7 +3420,7 @@
     "attitudePolarity": "positive"
   },
   {
-    "id": 38482,
+    "id": 35686,
     "title": "Press Release Apple &#x27;s all-new Mac mini is more mighty, more mini, and built for Apple Intelligence",
     "date": "2024-10-29 20:32:00",
     "journal": "Dow Jones Institutional News",

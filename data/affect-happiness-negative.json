@@ -1,6 +1,6 @@
 [
   {
-    "id": 4674,
+    "id": 4445,
     "title": "Berkshire&#x27;s Earnings Are Saturday. Watch Buybacks, Cash, and Its Apple Stake. -- Barrons.com",
     "date": "2024-10-31 10:30:00",
     "journal": "Dow Jones Institutional News",
@@ -18,7 +18,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 8090,
+    "id": 7627,
     "title": "Why AI Is a Risk to Apple &#x27;s Way of Doing Things",
     "date": "2025-08-15 12:31:00",
     "journal": "WSJ Podcasts",
@@ -36,7 +36,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 9804,
+    "id": 9238,
     "title": "Foxconn’s Apple era fades as AI servers drive growth in Taiwan tech sector",
     "date": "2025-08-18 14:00:00",
     "journal": "Reuters News",
@@ -54,7 +54,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 10383,
+    "id": 9795,
     "title": "Apple Stock Had a Strong Week. How It Can Keep the Momentum Going. -- Barrons.com",
     "date": "2025-08-08 19:26:00",
     "journal": "Dow Jones Newswires",
@@ -72,25 +72,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 10525,
-    "title": "3 Reasons Apple Stock Could Gain More Than 20% -- Barrons.com",
-    "date": "2025-09-10 19:44:00",
-    "journal": "Dow Jones Newswires",
-    "company": "N/A",
-    "region": "namz : North America | usa : United States",
-    "sentiment": "negative",
-    "sentimentScore": 0.813892543315887,
-    "matchedText": "frustrating",
-    "matchType": "word",
-    "numMatches": 2,
-    "sentence": "&quot;We know that Siri-gate was <span class=\"highlight-negative\">frustrating</span> but don&#x27;t think Apple is losing share and patience is being rewarded,&quot; Reitzes wrote.",
-    "sentenceRaw": "\"We know that Siri-gate was frustrating but don't think Apple is losing share and patience is being rewarded,\" Reitzes wrote.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "happiness",
-    "attitudePolarity": "negative"
-  },
-  {
-    "id": 10652,
+    "id": 10028,
     "title": "Elon Musk Just Delivered a Ringing Endorsement of the iPhone&#x27;s Staying Power -- Tim Higgins -- WSJ",
     "date": "2025-08-31 15:00:00",
     "journal": "Dow Jones Newswires",
@@ -108,7 +90,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 13820,
+    "id": 13004,
     "title": "Apple &#x27;s App Store Puts Kids a Click Away From a Slew of Inappropriate Apps -- WSJ",
     "date": "2024-12-22 17:30:00",
     "journal": "Dow Jones Institutional News",
@@ -126,7 +108,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 13960,
+    "id": 13135,
     "title": "Apple Is Flatlining, Oracle Is Soaring. This Is Determining Tech Stock Winners. -- Barrons.com",
     "date": "2025-09-10 16:37:00",
     "journal": "Dow Jones Newswires",
@@ -144,7 +126,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 13972,
+    "id": 13147,
     "title": "BOEING SAYS IT PRESENTED THE OFFER TO UNION BEFORE SHARING WITH EMPLOYEES",
     "date": "2024-09-24 07:29:00",
     "journal": "Reuters News",
@@ -162,7 +144,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 14164,
+    "id": 13331,
     "title": "Embraer to Receive $150M from Boeing for Uncompleted Deal",
     "date": "2024-09-16 19:26:00",
     "journal": "Dow Jones Institutional News",
@@ -180,79 +162,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 14822,
-    "title": "Boeing &#x27;s Starliner Returns to Earth Without Its Crew; NASA and the aerospace company plan to analyze performance of the vehicle after troubled months in space",
-    "date": "2024-09-07 21:00:00",
-    "journal": "The Wall Street Journal Online",
-    "company": "Business",
-    "region": "namz : North America | usa : United States",
-    "sentiment": "negative",
-    "sentimentScore": 0.957764506340027,
-    "matchedText": "frustrating",
-    "matchType": "word",
-    "numMatches": 1,
-    "sentence": "Problems with Starliner prompted NASA last month to task SpaceX with returning the astronauts home in February, <span class=\"highlight-negative\">frustrating</span> Boeing executives who said the vehicle could safely bring back Wilmore and Williams.",
-    "sentenceRaw": "Problems with Starliner prompted NASA last month to task SpaceX with returning the astronauts home in February, frustrating Boeing executives who said the vehicle could safely bring back Wilmore and Williams.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "happiness",
-    "attitudePolarity": "negative"
-  },
-  {
-    "id": 14971,
-    "title": "Airbus, Boeing aircraft delivery delays not improving, IATA head says",
-    "date": "2024-10-16 19:25:00",
-    "journal": "Reuters News",
-    "company": "Aerospace / Defense (Legacy)",
-    "region": "eecz : European Union Countries | eurz : Europe | ire : Ireland | weurz : Western Europe",
-    "sentiment": "negative",
-    "sentimentScore": 0.966199636459351,
-    "matchedText": "frustrating",
-    "matchType": "word",
-    "numMatches": 3,
-    "sentence": "DUBLIN (Reuters) - Delivery delays from planemakers Airbus and Boeing are &quot;massively <span class=\"highlight-negative\">frustrating</span>&quot; and are not yet getting better, the head of the global airline body IATA said on Wednesday.",
-    "sentenceRaw": "DUBLIN (Reuters) - Delivery delays from planemakers Airbus and Boeing are \"massively frustrating\" and are not yet getting better, the head of the global airline body IATA said on Wednesday.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "happiness",
-    "attitudePolarity": "negative"
-  },
-  {
-    "id": 14981,
-    "title": "UPDATE 1-Airbus, Boeing aircraft delivery delays not improving, IATA head says",
-    "date": "2024-10-16 19:22:00",
-    "journal": "Reuters News",
-    "company": "Aerospace & Defense (TRBC level 4)",
-    "region": "apacz : Asia Pacific | asiaz : Asia | china : China | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing Economies | easiaz : East Asia | eecz : European Union Countries | eurz : Europe | ire : Ireland | weurz : Western Europe",
-    "sentiment": "negative",
-    "sentimentScore": 0.968660116195679,
-    "matchedText": "frustrating",
-    "matchType": "word",
-    "numMatches": 3,
-    "sentence": "(Adds background in paragraph 5, comments on EU &#x27;level playing field&#x27; with China in paragraph 6) DUBLIN, Oct 16 (Reuters) - Delivery delays from planemakers Airbus and Boeing are &quot;massively <span class=\"highlight-negative\">frustrating</span>&quot; and are not yet getting better, the head of the global airline body IATA said on Wednesday.",
-    "sentenceRaw": "(Adds background in paragraph 5, comments on EU 'level playing field' with China in paragraph 6) DUBLIN, Oct 16 (Reuters) - Delivery delays from planemakers Airbus and Boeing are \"massively frustrating\" and are not yet getting better, the head of the global airline body IATA said on Wednesday.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "happiness",
-    "attitudePolarity": "negative"
-  },
-  {
-    "id": 15135,
-    "title": "Starliner Astronauts Say NASA Ran Short of Time to Test Boeing Craft; Sunita Williams and Barry Wilmore say they had input in decision to extend their stay in space to eight months following Starliner&#x27;s technical problems",
-    "date": "2024-09-14 02:36:00",
-    "journal": "The Wall Street Journal Online",
-    "company": "Business",
-    "region": "namz : North America | usa : United States",
-    "sentiment": "negative",
-    "sentimentScore": 0.946403384208679,
-    "matchedText": "frustrating",
-    "matchType": "word",
-    "numMatches": 1,
-    "sentence": "Problems with Starliner prompted the National Aeronautics and Space Administration last month to task SpaceX with returning the astronauts, <span class=\"highlight-negative\">frustrating</span> Boeing executives who said the vehicle could safely bring back Wilmore and Williams.",
-    "sentenceRaw": "Problems with Starliner prompted the National Aeronautics and Space Administration last month to task SpaceX with returning the astronauts, frustrating Boeing executives who said the vehicle could safely bring back Wilmore and Williams.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "happiness",
-    "attitudePolarity": "negative"
-  },
-  {
-    "id": 17795,
+    "id": 16676,
     "title": "Just How Great Is the Strain on Boeing &#x27;s Balance Sheet?",
     "date": "2024-10-25 02:34:00",
     "journal": "WSJ Podcasts",
@@ -270,7 +180,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 18283,
+    "id": 17128,
     "title": "These Stocks Are Moving the Most Today Super Micro, Microsoft, Nvidia, Micron, MicroStrategy, SolarEdge, Boeing , and More -- Barrons.com",
     "date": "2025-01-06 19:07:00",
     "journal": "Dow Jones Institutional News",
@@ -288,25 +198,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 18757,
-    "title": "Boeing &#x27;s Air Force One program could be delayed until 2029, or later, senior official says",
-    "date": "2025-02-17 23:57:00",
-    "journal": "Reuters News",
-    "company": "Aerospace / Defense (Legacy)",
-    "region": "namz : North America | usa : United States",
-    "sentiment": "negative",
-    "sentimentScore": 0.964920222759247,
-    "matchedText": "frustrating",
-    "matchType": "word",
-    "numMatches": 2,
-    "sentence": "The delays are <span class=\"highlight-negative\">frustrating</span>, but not much can be done to speed delivery, the official told Reuters, noting that Boeing faced problems getting components since some manufacturers had gone out of business.",
-    "sentenceRaw": "The delays are frustrating, but not much can be done to speed delivery, the official told Reuters, noting that Boeing faced problems getting components since some manufacturers had gone out of business.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "happiness",
-    "attitudePolarity": "negative"
-  },
-  {
-    "id": 18839,
+    "id": 17649,
     "title": "The Life and Death of a Boeing Whistleblower",
     "date": "2025-02-19 02:30:00",
     "journal": "WSJ Podcasts",
@@ -324,7 +216,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 21726,
+    "id": 20293,
     "title": "UPDATE 2- Boeing falling behind on certifying its 777X, CEO says",
     "date": "2025-09-12 02:25:00",
     "journal": "Reuters News",
@@ -342,7 +234,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 22340,
+    "id": 20865,
     "title": "Justice Department Wants to Spare Boeing From Guilty Plea Over 737 MAX Charges; Prosecutors are proposing a nonprosecution agreement to resolve Boeing &#x27;s violation of an earlier settlement",
     "date": "2025-05-17 01:46:00",
     "journal": "The Wall Street Journal Online",
@@ -353,24 +245,6 @@
     "matchedText": "frustrating",
     "matchType": "word",
     "numMatches": 1,
-    "sentence": "Boeing and European planemaker Airbus are months and years behind on new plane deliveries, <span class=\"highlight-negative\">frustrating</span> airlines that want to upgrade to more fuel-efficient aircraft and launch new services.",
-    "sentenceRaw": "Boeing and European planemaker Airbus are months and years behind on new plane deliveries, frustrating airlines that want to upgrade to more fuel-efficient aircraft and launch new services.",
-    "attitudeType": "affect",
-    "attitudeSubtype": "happiness",
-    "attitudePolarity": "negative"
-  },
-  {
-    "id": 23371,
-    "title": "Emirates airline boss sees positive progress at troubled Boeing",
-    "date": "2025-06-01 19:42:00",
-    "journal": "Reuters News",
-    "company": "Aerospace / Defense (Legacy)",
-    "region": "asiaz : Asia | devgcoz : Emerging Market Countries | gulfstz : Persian Gulf Countries | meastz : Middle East | uae : United Arab Emirates",
-    "sentiment": "negative",
-    "sentimentScore": 0.960372507572174,
-    "matchedText": "frustrating",
-    "matchType": "word",
-    "numMatches": 2,
     "sentence": "Boeing and European planemaker Airbus are months and years behind on new plane deliveries, <span class=\"highlight-negative\">frustrating</span> airlines that want to upgrade to more fuel-efficient aircraft and launch new services.",
     "sentenceRaw": "Boeing and European planemaker Airbus are months and years behind on new plane deliveries, frustrating airlines that want to upgrade to more fuel-efficient aircraft and launch new services.",
     "attitudeType": "affect",

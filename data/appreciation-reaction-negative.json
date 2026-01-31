@@ -1,6 +1,6 @@
 [
   {
-    "id": 5381,
+    "id": 5114,
     "title": "There Are Many Reasons to Use Apple &#x27;s New Password Manager -- WSJ",
     "date": "2024-10-01 12:02:00",
     "journal": "Dow Jones Institutional News",
@@ -18,7 +18,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 10938,
+    "id": 10298,
     "title": "‘Sextortion&#x27; Scams Leverage Apple &#x27;s Message Platform to Build Trust With Teens",
     "date": "2025-06-11 12:31:00",
     "journal": "WSJ Podcasts",
@@ -36,7 +36,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 11819,
+    "id": 11113,
     "title": "&#x27;Sextortion&#x27; Scams Involving Apple Messages Ended in Tragedy for These Boys -- WSJ",
     "date": "2025-06-07 18:30:00",
     "journal": "Dow Jones Newswires",
@@ -54,7 +54,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 15929,
+    "id": 14953,
     "title": "For This Boeing Family, the Job Is the Same. The Payoff Isn&#x27;t; Working at the jet maker gave the Merwins a middle-class life near Seattle, but they say &#x27;the company is not that ticket anymore&#x27;",
     "date": "2024-09-30 15:00:00",
     "journal": "The Wall Street Journal Online",
@@ -72,7 +72,25 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 18469,
+    "id": 16627,
+    "title": "Dow Down Nearly 700 Points On Losses In Shares Of Boeing , Goldman Sachs",
+    "date": "2025-03-04 21:16:00",
+    "journal": "Dow Jones Institutional News",
+    "company": "N/A",
+    "region": "namz : North America | usa : United States",
+    "sentiment": "negative",
+    "sentimentScore": 0.975384712219238,
+    "matchedText": "run into significant trouble. ",
+    "matchType": "regex",
+    "numMatches": 1,
+    "sentence": "One of Boeing&#x27;s key suppliers, however, has run into significant trouble.",
+    "sentenceRaw": "One of Boeing's key suppliers, however, has run into significant trouble.",
+    "attitudeType": "appreciation",
+    "attitudeSubtype": "reaction",
+    "attitudePolarity": "negative"
+  },
+  {
+    "id": 17298,
     "title": "Can Boeing Be Fixed? Aerospace Leaders Offer a Repair Manual -- WSJ",
     "date": "2025-01-07 07:30:00",
     "journal": "Dow Jones Institutional News",
@@ -90,7 +108,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 18476,
+    "id": 17305,
     "title": "Can Boeing Be Fixed? Aerospace Leaders Offer a Repair Manual -- WSJ",
     "date": "2025-01-07 07:30:00",
     "journal": "Dow Jones Institutional News",
@@ -108,7 +126,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 18526,
+    "id": 17351,
     "title": "Can Boeing Be Fixed? Aerospace Leaders Offer a Repair Manual; Restore trust and forget the stock price Experts from inside and outside the company share advice for the troubled jet maker",
     "date": "2025-01-07 07:30:00",
     "journal": "The Wall Street Journal Online",
@@ -126,7 +144,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 18531,
+    "id": 17356,
     "title": "Can Boeing Be Fixed? Aerospace Leaders Offer a Repair Manual; Restore trust and forget the stock price Experts from inside and outside the company share advice for the troubled jet maker",
     "date": "2025-01-07 07:30:00",
     "journal": "The Wall Street Journal Online",
@@ -144,7 +162,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 21232,
+    "id": 19839,
     "title": "FAA&#x27;s proposed $3.1 million fine to Boeing inadequate, senator says",
     "date": "2025-09-24 18:58:00",
     "journal": "Reuters News",
@@ -162,7 +180,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 21237,
+    "id": 19844,
     "title": "UPDATE 1-US senator calls FAA&#x27;s proposed $3.1 million Boeing fine inadequate",
     "date": "2025-09-24 20:16:00",
     "journal": "Reuters News",
@@ -180,7 +198,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 36997,
+    "id": 34303,
     "title": "*DOJ Sues Walgreens Boots Alliance ; Alleges &#x27;Walgreens Knowingly Filled Millions of Prescriptions that Lacked a Legitimate Medical Purpose&#x27;",
     "date": "2025-01-18 02:21:00",
     "journal": "Dow Jones Institutional News",
@@ -198,7 +216,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 37748,
+    "id": 35026,
     "title": "Press Release Robbins LLP Reminds Investors of Walgreens Boots Alliance , Inc. (WBA) of the Pending Lead Plaintiff Deadline and Urges Investors to Obtain Counsel",
     "date": "2025-02-19 06:46:00",
     "journal": "Dow Jones Institutional News",
@@ -216,25 +234,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 37749,
-    "title": "Press Release Robbins LLP Reminds Investors of Walgreens Boots Alliance , Inc. (WBA) of the Pending Lead Plaintiff Deadline and Urges Investors to Obtain Counsel",
-    "date": "2025-02-19 06:46:00",
-    "journal": "Dow Jones Institutional News",
-    "company": "N/A",
-    "region": "namz : North America | sdie : San Diego | usa : United States | usca : California | usw : Western U.S.",
-    "sentiment": "negative",
-    "sentimentScore": 0.609284281730652,
-    "matchedText": "dangerous",
-    "matchType": "word",
-    "numMatches": 5,
-    "sentence": "Specifically, the DOJ&#x27;s &quot;complaint alleges that, from approximately August 2012 through the present, Walgreens knowingly filled millions of prescriptions for controlled substances that lacked a legitimate medical purpose, were not valid, and/or were not issued in the usual course of professional practice&quot;, including &quot;prescriptions for <span class=\"highlight-negative\">dangerous</span> and excessive quantities of opioids, prescriptions for early refills of opioids and prescriptions for the especially <span class=\"highlight-negative\">dangerous</span> and abused combination of drugs known as the &#x27;trinity,&#x27; which is made up of an opioid, a benzodiazepine and a muscle relaxant.&quot;",
-    "sentenceRaw": "Specifically, the DOJ's \"complaint alleges that, from approximately August 2012 through the present, Walgreens knowingly filled millions of prescriptions for controlled substances that lacked a legitimate medical purpose, were not valid, and/or were not issued in the usual course of professional practice\", including \"prescriptions for dangerous and excessive quantities of opioids, prescriptions for early refills of opioids and prescriptions for the especially dangerous and abused combination of drugs known as the 'trinity,' which is made up of an opioid, a benzodiazepine and a muscle relaxant.\"",
-    "attitudeType": "appreciation",
-    "attitudeSubtype": "reaction",
-    "attitudePolarity": "negative"
-  },
-  {
-    "id": 50088,
+    "id": 41204,
     "title": "Hedge Funds Hate Apple Stock. Why They Could Be Wrong. -- Barrons.com",
     "date": "2025-04-23 23:51:00",
     "journal": "Dow Jones Institutional News",
@@ -252,7 +252,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 50206,
+    "id": 41231,
     "title": "They Paid $3,500 for Apple &#x27;s Vision Pro. A Year Later, It Still Hurts. The mixed-reality headset launched last year with great promise, but all these buyers got were dirty looks and sore necks; &#x27;I don&#x27;t need that&#x27;",
     "date": "2025-05-15 15:00:00",
     "journal": "The Wall Street Journal Online",
@@ -270,7 +270,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 50209,
+    "id": 41234,
     "title": "Apple &#x27;s WWDC Clouded by Worries Over AI, Tariffs, and Legal Battles",
     "date": "2025-06-09 12:31:00",
     "journal": "WSJ Podcasts",
@@ -288,7 +288,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 50220,
+    "id": 41239,
     "title": "An Apple Card Takeover Would Mark a Different Kind of JPMorgan Rescue -- Barrons.com",
     "date": "2024-09-18 04:12:00",
     "journal": "Dow Jones Institutional News",
@@ -306,7 +306,7 @@
     "attitudePolarity": "negative"
   },
   {
-    "id": 50713,
+    "id": 41387,
     "title": "Britain&#x27;s JD Sports says Nike &#x27;doing all the right things&#x27; to lift sales",
     "date": "2025-09-24 14:04:00",
     "journal": "Reuters News",
@@ -319,6 +319,24 @@
     "numMatches": 1,
     "sentence": "Hill, who was with Nike for more than three decades, returned as CEO in October to lead a turnaround at the firm which had been struggling with strategy missteps that <span class=\"highlight-negative\">soured</span> its relations with retailers.",
     "sentenceRaw": "Hill, who was with Nike for more than three decades, returned as CEO in October to lead a turnaround at the firm which had been struggling with strategy missteps that soured its relations with retailers.",
+    "attitudeType": "appreciation",
+    "attitudeSubtype": "reaction",
+    "attitudePolarity": "negative"
+  },
+  {
+    "id": 43765,
+    "title": "Intel Stock Rises on Report of Apollo Investment. What Wall Street Thinks. -- Barrons.com",
+    "date": "2024-09-23 19:55:00",
+    "journal": "Dow Jones Institutional News",
+    "company": "N/A",
+    "region": "apacz : Asia Pacific | asiaz : Asia | china : China | chinaz : Greater China | devgcoz : Emerging Market Countries | dvpcoz : Developing Economies | easiaz : East Asia | namz : North America | usa : United States",
+    "sentiment": "positive",
+    "sentimentScore": 0.943450093269348,
+    "matchedText": "spurred takeover interest",
+    "matchType": "word",
+    "numMatches": 2,
+    "sentence": "Intel&#x27;s depressed stock price has <span class=\"highlight-negative\">spurred takeover interest</span>.",
+    "sentenceRaw": "Intel's depressed stock price has spurred takeover interest.",
     "attitudeType": "appreciation",
     "attitudeSubtype": "reaction",
     "attitudePolarity": "negative"
